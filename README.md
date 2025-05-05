@@ -1,14 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22728
-Fork on GitHub
-7553
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Gagan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
