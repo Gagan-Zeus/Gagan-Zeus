@@ -11,7 +11,7 @@ LinkedIn: https://linkedin.com/in/gagan-deep-s-6304b0398
 
 ## About Me
 
-I am a Full-Stack Developer with strong expertise in JavaScript-based backend systems and SQL-driven data management. I build scalable applications using Node.js, REST APIs, MongoDB, and modern frontend tools like React and Tailwind CSS.
+Java Developer with strong expertise in Java-based backend development and SQL-driven data management. Experienced in building scalable applications using Java, Spring Boot, REST APIs, and relational databases such as MySQL. Proficient in object-oriented programming, Spring Framework, Hibernate/JPA, Git, and GitHub, with basic familiarity in Docker. Also exploring AI agents and automation systems to build intelligent solutions. Focused on developing efficient, high-performance, and data-driven software systems.
 
 I am also exploring AI agents, LLM integrations, and automation systems to create intelligent, real-world solutions.
 
@@ -33,7 +33,7 @@ I am also exploring AI agents, LLM integrations, and automation systems to creat
 - Tailwind CSS  
 
 ### Backend
-- Node.js  
+- Spring Boot, Hibernate/JPA 
 - Express.js  
 - REST APIs  
 
