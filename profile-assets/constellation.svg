@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Gagan Deep S project index</title>
+  <desc id="desc">A colourful editorial grid indexing local continuity, healthcare, legal intelligence and automation projects.</desc>
+  <rect width="1200" height="360" rx="20" fill="#efebe0"/>
+  <g stroke="#12110e" stroke-width="2">
+    <rect x="28" y="28" width="350" height="138" rx="16" fill="#9d7af4"/><rect x="398" y="28" width="350" height="138" rx="16" fill="#ff5239"/><rect x="768" y="28" width="404" height="138" rx="16" fill="#2f80f5"/>
+    <rect x="28" y="194" width="404" height="138" rx="16" fill="#ffc22a"/><rect x="452" y="194" width="350" height="138" rx="16" fill="#27c289"/><rect x="822" y="194" width="350" height="138" rx="16" fill="#eee8d9"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#12110e">
+    <text x="50" y="60" font-family="monospace" font-size="11">01 / LOCAL-FIRST</text><text x="50" y="126" font-size="31" font-weight="700">ZevLink</text><text x="50" y="149" font-family="monospace" font-size="11">clipboard · files · AirPlay</text>
+    <text x="420" y="60" font-family="monospace" font-size="11">02 / HEALTHCARE</text><text x="420" y="126" font-size="31" font-weight="700">Setu</text><text x="420" y="149" font-family="monospace" font-size="11">offline-first · Kannada</text>
+    <text x="790" y="60" font-family="monospace" font-size="11">03 / LEGAL AI</text><text x="790" y="126" font-size="31" font-weight="700">ClauseIQ</text><text x="790" y="149" font-family="monospace" font-size="11">PDF parsing · risk outputs</text>
+    <text x="50" y="226" font-family="monospace" font-size="11">04 / AUTOMATION</text><text x="50" y="292" font-size="31" font-weight="700">Forge</text><text x="50" y="315" font-family="monospace" font-size="11">multi-agent · code synthesis</text>
+    <text x="474" y="226" font-family="monospace" font-size="11">05 / REAL-TIME</text><text x="474" y="292" font-size="31" font-weight="700">FarmDirect</text><text x="474" y="315" font-family="monospace" font-size="11">trading · Socket.io</text>
+    <text x="844" y="226" font-family="monospace" font-size="11">06 / PRODUCT SYSTEMS</text><text x="844" y="292" font-size="31" font-weight="700">More builds</text><text x="844" y="315" font-family="monospace" font-size="11">ZeroDesk · DevFolio · more</text>
+  </g>
+</svg>

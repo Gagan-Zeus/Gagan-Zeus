@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">Keep building</title>
+  <desc id="desc">A warm editorial closing card with a black horizon and colourful accents.</desc>
+  <rect width="1200" height="190" rx="16" fill="#efebe0"/>
+  <rect x="24" y="24" width="1152" height="142" rx="14" fill="#12110e"/>
+  <circle cx="88" cy="95" r="38" fill="#ff5239"/><circle cx="88" cy="95" r="17" fill="#efebe0"/>
+  <circle cx="1110" cy="57" r="22" fill="#27c289"/><rect x="1088" y="118" width="42" height="10" rx="5" fill="#ffc22a"/>
+  <text x="154" y="88" fill="#efebe0" font-family="Arial, sans-serif" font-size="34" font-weight="700">KEEP BUILDING.</text>
+  <text x="154" y="119" fill="#efebe0" font-family="monospace" font-size="12">GAGAN DEEP S  ·  GAGAN-ZEUS  ·  BENGALURU</text>
+  <path d="M154 140H1018" stroke="#efebe0" stroke-width="2"/>
+</svg>

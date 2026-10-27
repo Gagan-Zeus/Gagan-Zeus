@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 44" role="img" aria-label="Editorial colour divider">
+  <path d="M0 22H1200" stroke="#12110e" stroke-width="2"/>
+  <circle cx="600" cy="22" r="13" fill="#ffc22a" stroke="#12110e" stroke-width="2"/>
+  <circle cx="600" cy="22" r="5" fill="#ff5239"><animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="30" cy="22" r="7" fill="#9d7af4" stroke="#12110e" stroke-width="2"/>
+  <circle cx="1170" cy="22" r="7" fill="#27c289" stroke="#12110e" stroke-width="2"/>
+</svg>

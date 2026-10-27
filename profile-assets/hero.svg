@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Gagan Deep S — editorial developer profile</title>
+  <desc id="desc">A warm Swiss editorial interface with bold typography and colourful project cards.</desc>
+  <filter id="shadow"><feGaussianBlur stdDeviation="12"/></filter>
+  <rect width="1200" height="650" fill="#efebe0"/>
+  <rect x="35" y="64" width="1130" height="548" rx="22" fill="#181713" opacity=".16" filter="url(#shadow)"/>
+  <rect x="35" y="45" width="1130" height="550" rx="22" fill="#f5f2e9" stroke="#12110e" stroke-width="3"/>
+  <rect x="51" y="61" width="130" height="30" rx="15" fill="#12110e"/>
+  <circle cx="67" cy="76" r="5" fill="#ff5239"/>
+  <text x="82" y="80" font-family="monospace" font-size="10" fill="#efebe0">GAGAN DEEP</text>
+  <text x="52" y="107" font-family="monospace" font-size="10" fill="#12110e">FULL STACK DEVELOPER · BENGALURU</text>
+  <g font-family="monospace" font-size="10" fill="#12110e" text-anchor="middle">
+    <rect x="930" y="65" width="56" height="23" rx="12" fill="#f5f2e9" stroke="#12110e"/><text x="958" y="79">WORK</text>
+    <rect x="992" y="65" width="58" height="23" rx="12" fill="#f5f2e9" stroke="#12110e"/><text x="1021" y="79">ABOUT</text>
+    <rect x="1056" y="65" width="50" height="23" rx="12" fill="#f5f2e9" stroke="#12110e"/><text x="1081" y="79">PLAY</text>
+    <rect x="1112" y="65" width="68" height="23" rx="12" fill="#f5f2e9" stroke="#12110e"/><text x="1146" y="79">CONTACT</text>
+  </g>
+  <rect x="51" y="121" width="784" height="269" rx="16" fill="#eee8d9" stroke="#12110e" stroke-width="2"/>
+  <text x="68" y="139" font-family="monospace" font-size="10" fill="#12110e">Product designer, builder, systems thinker</text>
+  <text x="67" y="296" font-family="Arial, sans-serif" font-size="76" font-weight="700" fill="#12110e">GAGAN DEEP S</text>
+  <text x="70" y="346" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#12110e">JAVA · FULL STACK · AI SYSTEMS</text>
+  <rect x="851" y="121" width="298" height="269" rx="16" fill="#2f80f5" stroke="#12110e" stroke-width="2"/>
+  <text x="868" y="139" font-family="monospace" font-size="10" fill="#12110e">SYSTEMS / 01</text>
+  <g stroke="#fff" stroke-opacity=".24" stroke-width="1"> <path d="M870 158V376M894 158V376M918 158V376M942 158V376M966 158V376M990 158V376M1014 158V376M1038 158V376M1062 158V376M1086 158V376M1110 158V376"/><path d="M870 158H1130M870 182H1130M870 206H1130M870 230H1130M870 254H1130M870 278H1130M870 302H1130M870 326H1130M870 350H1130M870 374H1130"/></g>
+  <rect x="922" y="218" width="156" height="84" rx="10" fill="#eee8d9" stroke="#12110e" stroke-width="2"/><rect x="970" y="230" width="60" height="60" fill="#12110e"/><rect x="993" y="253" width="14" height="14" fill="#eee8d9"/>
+  <rect x="51" y="406" width="248" height="173" rx="14" fill="#9d7af4" stroke="#12110e" stroke-width="2"/><text x="67" y="421" font-family="monospace" font-size="10">ABOUT</text><text x="67" y="552" font-family="Arial" font-size="14">Java backend +</text><text x="67" y="570" font-family="Arial" font-size="14">full-stack products.</text>
+  <rect x="311" y="406" width="259" height="173" rx="14" fill="#ff5239" stroke="#12110e" stroke-width="2"/><text x="327" y="421" font-family="monospace" font-size="10">BACKEND CORE</text><circle cx="505" cy="490" r="45" fill="#eee8d9" stroke="#12110e" stroke-width="2"/><rect x="350" y="475" width="135" height="38" rx="19" fill="#12110e"/><text x="327" y="570" font-family="Arial" font-size="29" font-weight="700">Spring Boot</text>
+  <rect x="582" y="406" width="253" height="173" rx="14" fill="#ffc22a" stroke="#12110e" stroke-width="2"/><text x="598" y="421" font-family="monospace" font-size="10">PROJECT GRID</text><rect x="672" y="451" width="61" height="61" rx="8" fill="#12110e"/><circle cx="787" cy="479" r="37" fill="none" stroke="#9d7af4" stroke-width="12"/><text x="598" y="570" font-family="Arial" font-size="20" font-weight="700">ZevLink · Setu · AI</text>
+  <rect x="851" y="406" width="298" height="173" rx="14" fill="#27c289" stroke="#12110e" stroke-width="2"/><text x="867" y="421" font-family="monospace" font-size="10">BUILDING NOW</text><text x="867" y="523" font-family="Arial" font-size="38" font-weight="700">Intelligent</text><text x="867" y="561" font-family="Arial" font-size="38" font-weight="700">systems.</text>
+</svg>
